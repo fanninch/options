@@ -1,5 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fafac81c-e4a5-434f-8849-14f24ab2be6e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/prophetoai/finance/options/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/prophetoai/finance/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/prophetoai/finance/options/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/prophetoai/finance/options/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/prophetoai/finance/package-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -7,8 +44,77 @@
       </MavenGeneralSettings>
     </option>
   </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1gtWODORjwCSv4o7NsVCBOeWTlK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fafac81c-e4a5-434f-8849-14f24ab2be6e" name="Default Changelist" comment="" />
+      <created>1598934337932</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598934337932</updated>
+      <workItem from="1598934340078" duration="1038000" />
+      <workItem from="1598935412162" duration="476000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="163" width="993" height="719" key="#Plugins" timestamp="1598935597636">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="463" y="163" width="993" height="719" key="#Plugins/0.0.1920.1040@0.0.1920.1040" timestamp="1598935597636" />
+    <state x="928" y="280" key="FileChooserDialogImpl" timestamp="1598934536812">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="928" y="280" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1598934536812" />
+    <state x="1027" y="437" width="405" height="205" key="Github.ShareDialog" timestamp="1598934572719">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1027" y="437" width="405" height="205" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598934572719" />
+    <state x="882" y="220" key="Github.UntrackedFilesDialog" timestamp="1598934586081">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="882" y="220" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598934586081" />
+    <state x="479" y="181" width="1317" height="747" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1598934604533">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="479" y="181" width="1317" height="747" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598934604533" />
+    <state x="711" y="254" width="672" height="678" key="search.everywhere.popup" timestamp="1598935565307">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="711" y="254" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1598935565307" />
   </component>
 </project>
